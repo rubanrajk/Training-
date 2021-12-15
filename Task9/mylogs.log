@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:46:51</date>
+  <millis>1639541811492</millis>
+  <sequence>0</sequence>
+  <logger>com.demo.example.Application</logger>
+  <level>SEVERE</level>
+  <class>com.demo.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>critical message</message>
+</record>
+<record>
+  <date>2021-12-15T09:46:51</date>
+  <millis>1639541811541</millis>
+  <sequence>1</sequence>
+  <logger>com.demo.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.demo.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2021-12-15T09:46:51</date>
+  <millis>1639541811543</millis>
+  <sequence>2</sequence>
+  <logger>com.demo.example.Application</logger>
+  <level>INFO</level>
+  <class>com.demo.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.util.logger configured successfully</message>
+</record>
+</log>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:39:49</date>
+  <millis>1639544989296</millis>
+  <sequence>0</sequence>
+  <logger>com.training.application.Application</logger>
+  <level>INFO</level>
+  <class>com.training.application.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>com.Details.Customer@119d7047</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:52:09</date>
+  <millis>1639545729426</millis>
+  <sequence>0</sequence>
+  <logger>com.training.application.Application</logger>
+  <level>INFO</level>
+  <class>com.training.application.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [cusNo=102, cusName=shyam, cusMno=123456, emailId=xyz@email.com]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:56:18</date>
+  <millis>1639545978107</millis>
+  <sequence>0</sequence>
+  <logger>com.training.application.Application</logger>
+  <level>INFO</level>
+  <class>com.training.application.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [cusNo=102, cusName=shyam, cusMno=123456, emailId=xyz@email.com]</message>
+</record>
+</log>
